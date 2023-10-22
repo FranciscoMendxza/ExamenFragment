@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ExamenFragment</string>
+    <string name="btn1p1">Examen</string>
+    <string name="btn2p1">Calificacion</string>
+    <string name="ptitulo">Actividades Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="f1titulo">Examen</string>
+    <string name="btnregresar">Regresar</string>
+    <string name="btnsiguiente">Siguiente</string>
+    <string name="btnsalir">Salir</string>
+    <string name="textresultados">Resultados</string>
+
+    <string name="lblaciertos">Aciertos: </string>
+    <string name="lblerrores">Errores: </string>
+    <string name="lblcalificacion">Calificacion: </string>
+</resources>
